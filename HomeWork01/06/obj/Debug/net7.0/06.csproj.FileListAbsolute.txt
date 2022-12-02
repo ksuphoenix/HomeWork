@@ -1,0 +1,15 @@
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/bin/Debug/net7.0/06
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/bin/Debug/net7.0/06.deps.json
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/bin/Debug/net7.0/06.runtimeconfig.json
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/bin/Debug/net7.0/06.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/bin/Debug/net7.0/06.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.csproj.AssemblyReference.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.AssemblyInfoInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.AssemblyInfo.cs
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.csproj.CoreCompileInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/refint/06.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/06.genruntimeconfig.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/06/obj/Debug/net7.0/ref/06.dll
