@@ -1,0 +1,15 @@
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/bin/Debug/net7.0/02
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/bin/Debug/net7.0/02.deps.json
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/bin/Debug/net7.0/02.runtimeconfig.json
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/bin/Debug/net7.0/02.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/bin/Debug/net7.0/02.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.csproj.AssemblyReference.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.AssemblyInfoInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.AssemblyInfo.cs
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.csproj.CoreCompileInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/refint/02.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/02.genruntimeconfig.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/HomeWork01/02/obj/Debug/net7.0/ref/02.dll
