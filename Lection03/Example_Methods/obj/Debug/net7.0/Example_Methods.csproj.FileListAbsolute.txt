@@ -1,0 +1,15 @@
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.csproj.AssemblyReference.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.AssemblyInfoInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.AssemblyInfo.cs
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.csproj.CoreCompileInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/bin/Debug/net7.0/Example_Methods
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/bin/Debug/net7.0/Example_Methods.deps.json
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/bin/Debug/net7.0/Example_Methods.runtimeconfig.json
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/bin/Debug/net7.0/Example_Methods.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/bin/Debug/net7.0/Example_Methods.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/refint/Example_Methods.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/Example_Methods.genruntimeconfig.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Lection03/Example_Methods/obj/Debug/net7.0/ref/Example_Methods.dll
