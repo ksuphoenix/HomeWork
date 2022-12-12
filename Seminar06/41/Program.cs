@@ -5,7 +5,7 @@
 Console.Write($"Введите размер массива: ");
 int M = int.Parse(Console.ReadLine());
 int[] numbers = ConsoleArray(M);
-Console.WriteLine($"Количество отрицательных чисел: {NumberNegative(numbers)}");
+Console.WriteLine($"Количество положительных чисел: {NumberPozitive(numbers)}");
 
 
 int[] ConsoleArray(int M)
@@ -22,12 +22,12 @@ int[] ConsoleArray(int M)
 
 
 
-int NumberNegative(int[] array)
+int NumberPozitive(int[] array)
 {
     int count = 0;
     for (int i=0; i<array.Length; i++)
     {
-        if (array[i]<0)
+        if (array[i]>0)
         {
             count++;
         }
