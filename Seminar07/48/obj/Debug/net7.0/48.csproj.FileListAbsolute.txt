@@ -1,0 +1,15 @@
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.csproj.AssemblyReference.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.AssemblyInfoInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.AssemblyInfo.cs
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.csproj.CoreCompileInputs.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/bin/Debug/net7.0/48
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/bin/Debug/net7.0/48.deps.json
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/bin/Debug/net7.0/48.runtimeconfig.json
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/bin/Debug/net7.0/48.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/bin/Debug/net7.0/48.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/refint/48.dll
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.pdb
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/48.genruntimeconfig.cache
+/Users/ksuphoenix/Desktop/Программирование/C#/Seminar07/48/obj/Debug/net7.0/ref/48.dll
