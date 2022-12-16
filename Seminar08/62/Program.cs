@@ -2,51 +2,49 @@
 
 using System;
 using static System.Console;
-// int m = int.Parse(ReadLine());
+Write("Введите число n:");
 int n = int.Parse(ReadLine());
-int[,] array = Spiral(n);
+int[,] array = SpiralMatrix(n);
 PrintArray(array);
-// array[0,0] = 1;
-// for (int i=0; i<m; i++)
-// {
-//     for (int j=0; j<n; j++)
-//     {
-//         array[i,j]=1;
-//         Write(array[i,j]);
-//     }
-// }
-int[,] Spiral(int n) 
+
+
+int[,] SpiralMatrix(int n) 
 {
     int[,] result = new int[n, n];
 
-    int pos = 1;
+    int position = 1;
     int count = n;
     int value = -n;
     int sum = -1;
-
     do {
         value = -1 * value / n;
-        for (int i = 0; i < count; i++) {
+        for (int i = 0; i<count; i++)
+        {
             sum += value;
-            result[sum / n, sum % n] = pos++;
+            result[sum/n,sum%n] = position;
+            position++;
         }
         value *= n;
         count--;
-        for (int i = 0; i < count; i++) {
+        for (int i = 0; i<count; i++)
+        {
             sum += value;
-            result[sum / n, sum % n] = pos++;
+            result[sum/n,sum%n] = position;
+            position++;
         }
     } while (count > 0);
 
     return result;
 }
-void PrintArray(int[,] array) {
-    int n = (array.GetLength(0) * array.GetLength(1) - 1).ToString().Length + 1;
 
-    for (int i = 0; i < array.GetLength(0); i++) {
-        for (int j = 0; j < array.GetLength(1); j++) {
-            Console.Write(array[i, j].ToString().PadLeft(n, ' '));
+void PrintArray(int[,] inArray)
+{
+    for (int i = 0; i < inArray.GetLength(0); i++)
+    {
+        for (int j = 0; j < inArray.GetLength(1); j++)
+        {
+            Write($"{inArray[i,j]}   ");
         }
-        Console.WriteLine();
+        WriteLine();
     }
 }

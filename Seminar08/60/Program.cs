@@ -16,37 +16,50 @@ int y = int.Parse(ReadLine());
 Write("Введите количество столбцов массива: ");
 int z = int.Parse(ReadLine());
 
-int [,,] array = Get3DArray(x, y, z);
-PrintArray(array);
+int[] array = DifferentNumbers(x,y,z);
+for (int i = 0; i < array.Length; i++)
+    {
+        Write($"{array[i]}; ");
+    }
 WriteLine();
 
-int[,,] Get3DArray(int m, int n, int l)
+int [,,] array3D = Get3DArray(x, y, z, array);
+PrintArray(array3D);
+WriteLine();
+
+int[] DifferentNumbers(int n, int m, int k)
+{
+    int size = n*m*k;
+    int[] DifArray = new int [size];         
+    for (int i=0; i<size; i++)
+    {
+        DifArray[i]= new Random().Next(10, 100);
+        for (int j=0; j<i; j++)
+        {
+            if (DifArray[j]==DifArray[i])
+            { DifArray[j]++;}
+        }
+    }
+    return DifArray;
+}
+
+int[,,] Get3DArray(int m, int n, int l, int[] inArray)
 {
     int[,,] result = new int[m, n, l];
+    int a = 0;
     for (int i = 0; i < m; i++)
     {
         for (int j = 0; j < n; j++)
         {
             for (int k = 0; k < l; k++)
             {
-                result[i, j, k] = new Random().Next(10, 100);
-                for (int i1 = 0; i1 <= i; i1++)
-                {
-                    for (int j1 = 0; j1 <= j; j1++)
-                    {
-                        for (int k1 = 0; k1 <= k; k1++)
-                        {
-                            result[i1, j1, k1] = new Random().Next(10, 100);
-                            if (result[i1,j1,k1] == result[i, j, k])
-                            {
-                                result[i1, j1, k1] = new Random().Next(10, 100);
-                            }
+                result[i, j, k] = inArray[a];
+                a++;
             }
         }
-    }}}}
+    }
     return result;
 }
-
 
 void PrintArray(int[,,] inArray)
 {
@@ -63,3 +76,4 @@ void PrintArray(int[,,] inArray)
         WriteLine();
     }
 }
+
